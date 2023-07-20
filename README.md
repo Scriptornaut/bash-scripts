@@ -21,7 +21,7 @@ Here are some of the bash scripts included in this repository:
 
 1. `hello_world.sh`: A simple "Hello, World!" script to demonstrate the basic structure of a bash script.
 
-2. `script_name.sh`: This script moves files around, but I don't remember. I need to read it again.
+2. `media_mover.sh`: This script takes media files with certain extensions in a directory and moves them to an existing 'backups' directory.
 
 
 Feel free to browse the `/scripts` directory to explore all the available scripts.
